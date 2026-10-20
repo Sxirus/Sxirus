@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Iam Jakob from Germany.
+
+I currently study Software Technology in Sweden.
+
+In my free time I like to code free mobile apps to make the power of software availible to everyone!
 <!--
 **Sxirus/Sxirus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
